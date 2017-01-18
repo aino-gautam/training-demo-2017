@@ -7,4 +7,8 @@ public class Menu {
 
 	}
 
+	public void nothing() {
+
+	}
+
 }
